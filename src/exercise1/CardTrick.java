@@ -92,6 +92,7 @@ public class CardTrick {
 
         System.out.println("My career ambitions: Software Developer");
         System.out.println("-- Be more active on LinkedIn");
+        System.out.println("-- Make more connection in college and LinkedIn");
         System.out.println("-- Have a semester with no violations of academic integrity!");
         System.out.println();
 
